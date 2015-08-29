@@ -4,4 +4,4 @@ To run the games:
 1) Clone
 2) Use terminal to navigate inside the folder and run "npm install" to acquire the node modules
 3) Run "node game" command within project directory to start socket.io
-3) Open new terminal and navigate inside the project folder and run "grunt" command to start the games
+4) Open new terminal and navigate inside the project folder and run "grunt" command to start the games
